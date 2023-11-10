@@ -7,9 +7,6 @@
   <a target="_blank" href="https://github.com/tdyx87/tdyx87" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswata56&hide=makefile,html,roff,jupyter+notebook&layout=compact&theme=tokyonight&langs_count=10" alt="Most Used Language" >
   </a><br>
-  <a target="_blank" href="https://app.hackthebox.eu/profile/89792" class="rich-diff-level-one">
-    <img src="http://www.hackthebox.eu/badge/image/89792" alt="Hack The Box">
-  </a>
 </p>
 
 #### My Stacks:
