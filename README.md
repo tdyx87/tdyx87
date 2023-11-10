@@ -1,5 +1,4 @@
-<h3> Hey, I'm Shaswata. <br>
-Associate Software Engineer at Orbitax</h3>  
+<h3> Hey, I'm tdyx87 <br></h3>  
 
 <p align="center">
   <a target="_blank" href="https://github.com/tdyx87" class="rich-diff-level-one">
